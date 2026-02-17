@@ -1,0 +1,627 @@
+(base) ➜  ~ python3 measure_alt_hpc_adoption.py
+
+--- Scraping OpenCL Repositories ---
+[1/166] OpenCL - Fetching: "clCreateKernel" size:0..99
+[2/166] OpenCL - Fetching: "clCreateKernel" size:100..199
+[3/166] OpenCL - Fetching: "clCreateKernel" size:200..299
+[4/166] OpenCL - Fetching: "clCreateKernel" size:300..399
+[5/166] OpenCL - Fetching: "clCreateKernel" size:400..499
+[6/166] OpenCL - Fetching: "clCreateKernel" size:500..599
+[7/166] OpenCL - Fetching: "clCreateKernel" size:600..699
+[8/166] OpenCL - Fetching: "clCreateKernel" size:700..799
+[9/166] OpenCL - Fetching: "clCreateKernel" size:800..899
+[10/166] OpenCL - Fetching: "clCreateKernel" size:900..999
+  -> Rate limit hit. Sleeping for 65 seconds...
+[11/166] OpenCL - Fetching: "clCreateKernel" size:1000..1099
+[12/166] OpenCL - Fetching: "clCreateKernel" size:1100..1199
+[13/166] OpenCL - Fetching: "clCreateKernel" size:1200..1299
+[14/166] OpenCL - Fetching: "clCreateKernel" size:1300..1399
+[15/166] OpenCL - Fetching: "clCreateKernel" size:1400..1499
+[16/166] OpenCL - Fetching: "clCreateKernel" size:1500..1599
+[17/166] OpenCL - Fetching: "clCreateKernel" size:1600..1699
+[18/166] OpenCL - Fetching: "clCreateKernel" size:1700..1799
+  -> Rate limit hit. Sleeping for 65 seconds...
+[19/166] OpenCL - Fetching: "clCreateKernel" size:1800..1899
+[20/166] OpenCL - Fetching: "clCreateKernel" size:1900..1999
+[21/166] OpenCL - Fetching: "clCreateKernel" size:2000..2099
+[22/166] OpenCL - Fetching: "clCreateKernel" size:2100..2199
+[23/166] OpenCL - Fetching: "clCreateKernel" size:2200..2299
+[24/166] OpenCL - Fetching: "clCreateKernel" size:2300..2399
+  -> Rate limit hit. Sleeping for 65 seconds...
+[25/166] OpenCL - Fetching: "clCreateKernel" size:2400..2499
+[26/166] OpenCL - Fetching: "clCreateKernel" size:2500..2599
+[27/166] OpenCL - Fetching: "clCreateKernel" size:2600..2699
+[28/166] OpenCL - Fetching: "clCreateKernel" size:2700..2799
+[29/166] OpenCL - Fetching: "clCreateKernel" size:2800..2899
+[30/166] OpenCL - Fetching: "clCreateKernel" size:2900..2999
+  -> Rate limit hit. Sleeping for 65 seconds...
+[31/166] OpenCL - Fetching: "clCreateKernel" size:3000..3099
+[32/166] OpenCL - Fetching: "clCreateKernel" size:3100..3199
+[33/166] OpenCL - Fetching: "clCreateKernel" size:3200..3299
+[34/166] OpenCL - Fetching: "clCreateKernel" size:3300..3399
+  -> Rate limit hit. Sleeping for 65 seconds...
+[35/166] OpenCL - Fetching: "clCreateKernel" size:3400..3499
+[36/166] OpenCL - Fetching: "clCreateKernel" size:3500..3599
+[37/166] OpenCL - Fetching: "clCreateKernel" size:3600..3699
+[38/166] OpenCL - Fetching: "clCreateKernel" size:3700..3799
+[39/166] OpenCL - Fetching: "clCreateKernel" size:3800..3899
+[40/166] OpenCL - Fetching: "clCreateKernel" size:3900..3999
+[41/166] OpenCL - Fetching: "clCreateKernel" size:4000..4099
+[42/166] OpenCL - Fetching: "clCreateKernel" size:4100..4199
+[43/166] OpenCL - Fetching: "clCreateKernel" size:4200..4299
+  -> Rate limit hit. Sleeping for 65 seconds...
+[44/166] OpenCL - Fetching: "clCreateKernel" size:4300..4399
+[45/166] OpenCL - Fetching: "clCreateKernel" size:4400..4499
+[46/166] OpenCL - Fetching: "clCreateKernel" size:4500..4599
+[47/166] OpenCL - Fetching: "clCreateKernel" size:4600..4699
+  -> Rate limit hit. Sleeping for 65 seconds...
+[48/166] OpenCL - Fetching: "clCreateKernel" size:4700..4799
+[49/166] OpenCL - Fetching: "clCreateKernel" size:4800..4899
+[50/166] OpenCL - Fetching: "clCreateKernel" size:4900..4999
+  -> Rate limit hit. Sleeping for 65 seconds...
+[51/166] OpenCL - Fetching: "clCreateKernel" size:5000..5099
+[52/166] OpenCL - Fetching: "clCreateKernel" size:5100..5199
+[53/166] OpenCL - Fetching: "clCreateKernel" size:5200..5299
+  -> Rate limit hit. Sleeping for 65 seconds...
+[54/166] OpenCL - Fetching: "clCreateKernel" size:5300..5399
+[55/166] OpenCL - Fetching: "clCreateKernel" size:5400..5499
+[56/166] OpenCL - Fetching: "clCreateKernel" size:5500..5599
+  -> Rate limit hit. Sleeping for 65 seconds...
+[57/166] OpenCL - Fetching: "clCreateKernel" size:5600..5699
+[58/166] OpenCL - Fetching: "clCreateKernel" size:5700..5799
+[59/166] OpenCL - Fetching: "clCreateKernel" size:5800..5899
+[60/166] OpenCL - Fetching: "clCreateKernel" size:5900..5999
+  -> Rate limit hit. Sleeping for 65 seconds...
+[61/166] OpenCL - Fetching: "clCreateKernel" size:6000..6099
+[62/166] OpenCL - Fetching: "clCreateKernel" size:6100..6199
+[63/166] OpenCL - Fetching: "clCreateKernel" size:6200..6299
+[64/166] OpenCL - Fetching: "clCreateKernel" size:6300..6399
+[65/166] OpenCL - Fetching: "clCreateKernel" size:6400..6499
+  -> Rate limit hit. Sleeping for 65 seconds...
+[66/166] OpenCL - Fetching: "clCreateKernel" size:6500..6599
+[67/166] OpenCL - Fetching: "clCreateKernel" size:6600..6699
+[68/166] OpenCL - Fetching: "clCreateKernel" size:6700..6799
+[69/166] OpenCL - Fetching: "clCreateKernel" size:6800..6899
+  -> Rate limit hit. Sleeping for 65 seconds...
+[70/166] OpenCL - Fetching: "clCreateKernel" size:6900..6999
+[71/166] OpenCL - Fetching: "clCreateKernel" size:7000..7099
+[72/166] OpenCL - Fetching: "clCreateKernel" size:7100..7199
+[73/166] OpenCL - Fetching: "clCreateKernel" size:7200..7299
+  -> Rate limit hit. Sleeping for 65 seconds...
+[74/166] OpenCL - Fetching: "clCreateKernel" size:7300..7399
+[75/166] OpenCL - Fetching: "clCreateKernel" size:7400..7499
+[76/166] OpenCL - Fetching: "clCreateKernel" size:7500..7599
+[77/166] OpenCL - Fetching: "clCreateKernel" size:7600..7699
+[78/166] OpenCL - Fetching: "clCreateKernel" size:7700..7799
+[79/166] OpenCL - Fetching: "clCreateKernel" size:7800..7899
+[80/166] OpenCL - Fetching: "clCreateKernel" size:7900..7999
+  -> Rate limit hit. Sleeping for 65 seconds...
+[81/166] OpenCL - Fetching: "clCreateKernel" size:8000..8099
+[82/166] OpenCL - Fetching: "clCreateKernel" size:8100..8199
+[83/166] OpenCL - Fetching: "clCreateKernel" size:8200..8299
+[84/166] OpenCL - Fetching: "clCreateKernel" size:8300..8399
+  -> Rate limit hit. Sleeping for 65 seconds...
+[85/166] OpenCL - Fetching: "clCreateKernel" size:8400..8499
+[86/166] OpenCL - Fetching: "clCreateKernel" size:8500..8599
+[87/166] OpenCL - Fetching: "clCreateKernel" size:8600..8699
+  -> Rate limit hit. Sleeping for 65 seconds...
+[88/166] OpenCL - Fetching: "clCreateKernel" size:8700..8799
+[89/166] OpenCL - Fetching: "clCreateKernel" size:8800..8899
+[90/166] OpenCL - Fetching: "clCreateKernel" size:8900..8999
+[91/166] OpenCL - Fetching: "clCreateKernel" size:9000..9099
+  -> Rate limit hit. Sleeping for 65 seconds...
+[92/166] OpenCL - Fetching: "clCreateKernel" size:9100..9199
+[93/166] OpenCL - Fetching: "clCreateKernel" size:9200..9299
+[94/166] OpenCL - Fetching: "clCreateKernel" size:9300..9399
+[95/166] OpenCL - Fetching: "clCreateKernel" size:9400..9499
+[96/166] OpenCL - Fetching: "clCreateKernel" size:9500..9599
+  -> Rate limit hit. Sleeping for 65 seconds...
+[97/166] OpenCL - Fetching: "clCreateKernel" size:9600..9699
+[98/166] OpenCL - Fetching: "clCreateKernel" size:9700..9799
+[99/166] OpenCL - Fetching: "clCreateKernel" size:9800..9899
+[100/166] OpenCL - Fetching: "clCreateKernel" size:9900..9999
+  -> Rate limit hit. Sleeping for 65 seconds...
+[101/166] OpenCL - Fetching: "clCreateKernel" size:10000..10999
+  [WARNING] Bin 10000..10999 returned 1000+ files! A few repos might be missed.
+  -> Error 422: {"message":"Cannot access beyond the first 1000 results","documentation_url":"https://docs.github.com/rest/search/search#search-code","status":"422"}
+[102/166] OpenCL - Fetching: "clCreateKernel" size:11000..11999
+  -> Error 422: {"message":"Cannot access beyond the first 1000 results","documentation_url":"https://docs.github.com/rest/search/search#search-code","status":"422"}
+[103/166] OpenCL - Fetching: "clCreateKernel" size:12000..12999
+  [WARNING] Bin 12000..12999 returned 1000+ files! A few repos might be missed.
+  -> Error 422: {"message":"Cannot access beyond the first 1000 results","documentation_url":"https://docs.github.com/rest/search/search#search-code","status":"422"}
+[104/166] OpenCL - Fetching: "clCreateKernel" size:13000..13999
+  -> Error 422: {"message":"Cannot access beyond the first 1000 results","documentation_url":"https://docs.github.com/rest/search/search#search-code","status":"422"}
+[105/166] OpenCL - Fetching: "clCreateKernel" size:14000..14999
+  -> Error 422: {"message":"Cannot access beyond the first 1000 results","documentation_url":"https://docs.github.com/rest/search/search#search-code","status":"422"}
+[106/166] OpenCL - Fetching: "clCreateKernel" size:15000..15999
+[107/166] OpenCL - Fetching: "clCreateKernel" size:16000..16999
+[108/166] OpenCL - Fetching: "clCreateKernel" size:17000..17999
+[109/166] OpenCL - Fetching: "clCreateKernel" size:18000..18999
+[110/166] OpenCL - Fetching: "clCreateKernel" size:19000..19999
+  -> Rate limit hit. Sleeping for 65 seconds...
+[111/166] OpenCL - Fetching: "clCreateKernel" size:20000..20999
+[112/166] OpenCL - Fetching: "clCreateKernel" size:21000..21999
+[113/166] OpenCL - Fetching: "clCreateKernel" size:22000..22999
+[114/166] OpenCL - Fetching: "clCreateKernel" size:23000..23999
+  -> Rate limit hit. Sleeping for 65 seconds...
+[115/166] OpenCL - Fetching: "clCreateKernel" size:24000..24999
+[116/166] OpenCL - Fetching: "clCreateKernel" size:25000..25999
+  -> Rate limit hit. Sleeping for 65 seconds...
+[117/166] OpenCL - Fetching: "clCreateKernel" size:26000..26999
+[118/166] OpenCL - Fetching: "clCreateKernel" size:27000..27999
+  -> Rate limit hit. Sleeping for 65 seconds...
+[119/166] OpenCL - Fetching: "clCreateKernel" size:28000..28999
+[120/166] OpenCL - Fetching: "clCreateKernel" size:29000..29999
+[121/166] OpenCL - Fetching: "clCreateKernel" size:30000..30999
+[122/166] OpenCL - Fetching: "clCreateKernel" size:31000..31999
+  -> Rate limit hit. Sleeping for 65 seconds...
+[123/166] OpenCL - Fetching: "clCreateKernel" size:32000..32999
+[124/166] OpenCL - Fetching: "clCreateKernel" size:33000..33999
+[125/166] OpenCL - Fetching: "clCreateKernel" size:34000..34999
+  -> Rate limit hit. Sleeping for 65 seconds...
+[126/166] OpenCL - Fetching: "clCreateKernel" size:35000..35999
+[127/166] OpenCL - Fetching: "clCreateKernel" size:36000..36999
+[128/166] OpenCL - Fetching: "clCreateKernel" size:37000..37999
+[129/166] OpenCL - Fetching: "clCreateKernel" size:38000..38999
+  -> Rate limit hit. Sleeping for 65 seconds...
+[130/166] OpenCL - Fetching: "clCreateKernel" size:39000..39999
+[131/166] OpenCL - Fetching: "clCreateKernel" size:40000..40999
+[132/166] OpenCL - Fetching: "clCreateKernel" size:41000..41999
+[133/166] OpenCL - Fetching: "clCreateKernel" size:42000..42999
+  -> Rate limit hit. Sleeping for 65 seconds...
+[134/166] OpenCL - Fetching: "clCreateKernel" size:43000..43999
+[135/166] OpenCL - Fetching: "clCreateKernel" size:44000..44999
+[136/166] OpenCL - Fetching: "clCreateKernel" size:45000..45999
+  -> Rate limit hit. Sleeping for 65 seconds...
+[137/166] OpenCL - Fetching: "clCreateKernel" size:46000..46999
+[138/166] OpenCL - Fetching: "clCreateKernel" size:47000..47999
+[139/166] OpenCL - Fetching: "clCreateKernel" size:48000..48999
+[140/166] OpenCL - Fetching: "clCreateKernel" size:49000..49999
+  -> Rate limit hit. Sleeping for 65 seconds...
+[141/166] OpenCL - Fetching: "clCreateKernel" size:50000..54999
+[142/166] OpenCL - Fetching: "clCreateKernel" size:55000..59999
+  -> Rate limit hit. Sleeping for 65 seconds...
+[143/166] OpenCL - Fetching: "clCreateKernel" size:60000..64999
+[144/166] OpenCL - Fetching: "clCreateKernel" size:65000..69999
+  -> Rate limit hit. Sleeping for 65 seconds...
+[145/166] OpenCL - Fetching: "clCreateKernel" size:70000..74999
+[146/166] OpenCL - Fetching: "clCreateKernel" size:75000..79999
+[147/166] OpenCL - Fetching: "clCreateKernel" size:80000..84999
+  -> Rate limit hit. Sleeping for 65 seconds...
+[148/166] OpenCL - Fetching: "clCreateKernel" size:85000..89999
+[149/166] OpenCL - Fetching: "clCreateKernel" size:90000..94999
+[150/166] OpenCL - Fetching: "clCreateKernel" size:95000..99999
+  -> Rate limit hit. Sleeping for 65 seconds...
+[151/166] OpenCL - Fetching: "clCreateKernel" size:100000..119999
+[152/166] OpenCL - Fetching: "clCreateKernel" size:120000..139999
+  -> Rate limit hit. Sleeping for 65 seconds...
+[153/166] OpenCL - Fetching: "clCreateKernel" size:140000..159999
+[154/166] OpenCL - Fetching: "clCreateKernel" size:160000..179999
+[155/166] OpenCL - Fetching: "clCreateKernel" size:180000..199999
+[156/166] OpenCL - Fetching: "clCreateKernel" size:200000..219999
+  -> Rate limit hit. Sleeping for 65 seconds...
+[157/166] OpenCL - Fetching: "clCreateKernel" size:220000..239999
+[158/166] OpenCL - Fetching: "clCreateKernel" size:240000..259999
+[159/166] OpenCL - Fetching: "clCreateKernel" size:260000..279999
+  -> Rate limit hit. Sleeping for 65 seconds...
+[160/166] OpenCL - Fetching: "clCreateKernel" size:280000..299999
+[161/166] OpenCL - Fetching: "clCreateKernel" size:300000..319999
+  -> Rate limit hit. Sleeping for 65 seconds...
+[162/166] OpenCL - Fetching: "clCreateKernel" size:320000..339999
+[163/166] OpenCL - Fetching: "clCreateKernel" size:340000..359999
+[164/166] OpenCL - Fetching: "clCreateKernel" size:360000..379999
+  -> Rate limit hit. Sleeping for 65 seconds...
+[165/166] OpenCL - Fetching: "clCreateKernel" size:380000..399999
+[166/166] OpenCL - Fetching: "clCreateKernel" size:>384000
+
+--- Scraping HIP Repositories ---
+[1/166] HIP - Fetching: "hipLaunchKernelGGL" size:0..99
+[2/166] HIP - Fetching: "hipLaunchKernelGGL" size:100..199
+[3/166] HIP - Fetching: "hipLaunchKernelGGL" size:200..299
+[4/166] HIP - Fetching: "hipLaunchKernelGGL" size:300..399
+[5/166] HIP - Fetching: "hipLaunchKernelGGL" size:400..499
+[6/166] HIP - Fetching: "hipLaunchKernelGGL" size:500..599
+[7/166] HIP - Fetching: "hipLaunchKernelGGL" size:600..699
+  -> Rate limit hit. Sleeping for 65 seconds...
+[8/166] HIP - Fetching: "hipLaunchKernelGGL" size:700..799
+[9/166] HIP - Fetching: "hipLaunchKernelGGL" size:800..899
+[10/166] HIP - Fetching: "hipLaunchKernelGGL" size:900..999
+[11/166] HIP - Fetching: "hipLaunchKernelGGL" size:1000..1099
+[12/166] HIP - Fetching: "hipLaunchKernelGGL" size:1100..1199
+[13/166] HIP - Fetching: "hipLaunchKernelGGL" size:1200..1299
+[14/166] HIP - Fetching: "hipLaunchKernelGGL" size:1300..1399
+[15/166] HIP - Fetching: "hipLaunchKernelGGL" size:1400..1499
+  -> Rate limit hit. Sleeping for 65 seconds...
+[16/166] HIP - Fetching: "hipLaunchKernelGGL" size:1500..1599
+[17/166] HIP - Fetching: "hipLaunchKernelGGL" size:1600..1699
+[18/166] HIP - Fetching: "hipLaunchKernelGGL" size:1700..1799
+[19/166] HIP - Fetching: "hipLaunchKernelGGL" size:1800..1899
+[20/166] HIP - Fetching: "hipLaunchKernelGGL" size:1900..1999
+[21/166] HIP - Fetching: "hipLaunchKernelGGL" size:2000..2099
+[22/166] HIP - Fetching: "hipLaunchKernelGGL" size:2100..2199
+  -> Rate limit hit. Sleeping for 65 seconds...
+[23/166] HIP - Fetching: "hipLaunchKernelGGL" size:2200..2299
+[24/166] HIP - Fetching: "hipLaunchKernelGGL" size:2300..2399
+[25/166] HIP - Fetching: "hipLaunchKernelGGL" size:2400..2499
+[26/166] HIP - Fetching: "hipLaunchKernelGGL" size:2500..2599
+[27/166] HIP - Fetching: "hipLaunchKernelGGL" size:2600..2699
+  -> Rate limit hit. Sleeping for 65 seconds...
+[28/166] HIP - Fetching: "hipLaunchKernelGGL" size:2700..2799
+[29/166] HIP - Fetching: "hipLaunchKernelGGL" size:2800..2899
+[30/166] HIP - Fetching: "hipLaunchKernelGGL" size:2900..2999
+[31/166] HIP - Fetching: "hipLaunchKernelGGL" size:3000..3099
+  -> Rate limit hit. Sleeping for 65 seconds...
+[32/166] HIP - Fetching: "hipLaunchKernelGGL" size:3100..3199
+[33/166] HIP - Fetching: "hipLaunchKernelGGL" size:3200..3299
+[34/166] HIP - Fetching: "hipLaunchKernelGGL" size:3300..3399
+[35/166] HIP - Fetching: "hipLaunchKernelGGL" size:3400..3499
+[36/166] HIP - Fetching: "hipLaunchKernelGGL" size:3500..3599
+  -> Rate limit hit. Sleeping for 65 seconds...
+[37/166] HIP - Fetching: "hipLaunchKernelGGL" size:3600..3699
+[38/166] HIP - Fetching: "hipLaunchKernelGGL" size:3700..3799
+[39/166] HIP - Fetching: "hipLaunchKernelGGL" size:3800..3899
+[40/166] HIP - Fetching: "hipLaunchKernelGGL" size:3900..3999
+  -> Rate limit hit. Sleeping for 65 seconds...
+[41/166] HIP - Fetching: "hipLaunchKernelGGL" size:4000..4099
+[42/166] HIP - Fetching: "hipLaunchKernelGGL" size:4100..4199
+[43/166] HIP - Fetching: "hipLaunchKernelGGL" size:4200..4299
+[44/166] HIP - Fetching: "hipLaunchKernelGGL" size:4300..4399
+  -> Rate limit hit. Sleeping for 65 seconds...
+[45/166] HIP - Fetching: "hipLaunchKernelGGL" size:4400..4499
+[46/166] HIP - Fetching: "hipLaunchKernelGGL" size:4500..4599
+[47/166] HIP - Fetching: "hipLaunchKernelGGL" size:4600..4699
+[48/166] HIP - Fetching: "hipLaunchKernelGGL" size:4700..4799
+[49/166] HIP - Fetching: "hipLaunchKernelGGL" size:4800..4899
+  -> Rate limit hit. Sleeping for 65 seconds...
+[50/166] HIP - Fetching: "hipLaunchKernelGGL" size:4900..4999
+[51/166] HIP - Fetching: "hipLaunchKernelGGL" size:5000..5099
+[52/166] HIP - Fetching: "hipLaunchKernelGGL" size:5100..5199
+[53/166] HIP - Fetching: "hipLaunchKernelGGL" size:5200..5299
+[54/166] HIP - Fetching: "hipLaunchKernelGGL" size:5300..5399
+  -> Rate limit hit. Sleeping for 65 seconds...
+[55/166] HIP - Fetching: "hipLaunchKernelGGL" size:5400..5499
+[56/166] HIP - Fetching: "hipLaunchKernelGGL" size:5500..5599
+[57/166] HIP - Fetching: "hipLaunchKernelGGL" size:5600..5699
+[58/166] HIP - Fetching: "hipLaunchKernelGGL" size:5700..5799
+[59/166] HIP - Fetching: "hipLaunchKernelGGL" size:5800..5899
+[60/166] HIP - Fetching: "hipLaunchKernelGGL" size:5900..5999
+  -> Rate limit hit. Sleeping for 65 seconds...
+[61/166] HIP - Fetching: "hipLaunchKernelGGL" size:6000..6099
+[62/166] HIP - Fetching: "hipLaunchKernelGGL" size:6100..6199
+[63/166] HIP - Fetching: "hipLaunchKernelGGL" size:6200..6299
+[64/166] HIP - Fetching: "hipLaunchKernelGGL" size:6300..6399
+[65/166] HIP - Fetching: "hipLaunchKernelGGL" size:6400..6499
+[66/166] HIP - Fetching: "hipLaunchKernelGGL" size:6500..6599
+  -> Rate limit hit. Sleeping for 65 seconds...
+[67/166] HIP - Fetching: "hipLaunchKernelGGL" size:6600..6699
+[68/166] HIP - Fetching: "hipLaunchKernelGGL" size:6700..6799
+[69/166] HIP - Fetching: "hipLaunchKernelGGL" size:6800..6899
+[70/166] HIP - Fetching: "hipLaunchKernelGGL" size:6900..6999
+[71/166] HIP - Fetching: "hipLaunchKernelGGL" size:7000..7099
+  -> Rate limit hit. Sleeping for 65 seconds...
+[72/166] HIP - Fetching: "hipLaunchKernelGGL" size:7100..7199
+[73/166] HIP - Fetching: "hipLaunchKernelGGL" size:7200..7299
+[74/166] HIP - Fetching: "hipLaunchKernelGGL" size:7300..7399
+[75/166] HIP - Fetching: "hipLaunchKernelGGL" size:7400..7499
+[76/166] HIP - Fetching: "hipLaunchKernelGGL" size:7500..7599
+  -> Rate limit hit. Sleeping for 65 seconds...
+[77/166] HIP - Fetching: "hipLaunchKernelGGL" size:7600..7699
+[78/166] HIP - Fetching: "hipLaunchKernelGGL" size:7700..7799
+[79/166] HIP - Fetching: "hipLaunchKernelGGL" size:7800..7899
+[80/166] HIP - Fetching: "hipLaunchKernelGGL" size:7900..7999
+[81/166] HIP - Fetching: "hipLaunchKernelGGL" size:8000..8099
+[82/166] HIP - Fetching: "hipLaunchKernelGGL" size:8100..8199
+[83/166] HIP - Fetching: "hipLaunchKernelGGL" size:8200..8299
+  -> Rate limit hit. Sleeping for 65 seconds...
+[84/166] HIP - Fetching: "hipLaunchKernelGGL" size:8300..8399
+[85/166] HIP - Fetching: "hipLaunchKernelGGL" size:8400..8499
+[86/166] HIP - Fetching: "hipLaunchKernelGGL" size:8500..8599
+[87/166] HIP - Fetching: "hipLaunchKernelGGL" size:8600..8699
+[88/166] HIP - Fetching: "hipLaunchKernelGGL" size:8700..8799
+[89/166] HIP - Fetching: "hipLaunchKernelGGL" size:8800..8899
+[90/166] HIP - Fetching: "hipLaunchKernelGGL" size:8900..8999
+[91/166] HIP - Fetching: "hipLaunchKernelGGL" size:9000..9099
+  -> Rate limit hit. Sleeping for 65 seconds...
+[92/166] HIP - Fetching: "hipLaunchKernelGGL" size:9100..9199
+[93/166] HIP - Fetching: "hipLaunchKernelGGL" size:9200..9299
+[94/166] HIP - Fetching: "hipLaunchKernelGGL" size:9300..9399
+[95/166] HIP - Fetching: "hipLaunchKernelGGL" size:9400..9499
+[96/166] HIP - Fetching: "hipLaunchKernelGGL" size:9500..9599
+[97/166] HIP - Fetching: "hipLaunchKernelGGL" size:9600..9699
+[98/166] HIP - Fetching: "hipLaunchKernelGGL" size:9700..9799
+[99/166] HIP - Fetching: "hipLaunchKernelGGL" size:9800..9899
+  -> Rate limit hit. Sleeping for 65 seconds...
+[100/166] HIP - Fetching: "hipLaunchKernelGGL" size:9900..9999
+[101/166] HIP - Fetching: "hipLaunchKernelGGL" size:10000..10999
+[102/166] HIP - Fetching: "hipLaunchKernelGGL" size:11000..11999
+  -> Rate limit hit. Sleeping for 65 seconds...
+[103/166] HIP - Fetching: "hipLaunchKernelGGL" size:12000..12999
+[104/166] HIP - Fetching: "hipLaunchKernelGGL" size:13000..13999
+[105/166] HIP - Fetching: "hipLaunchKernelGGL" size:14000..14999
+  -> Rate limit hit. Sleeping for 65 seconds...
+[106/166] HIP - Fetching: "hipLaunchKernelGGL" size:15000..15999
+[107/166] HIP - Fetching: "hipLaunchKernelGGL" size:16000..16999
+  -> Rate limit hit. Sleeping for 65 seconds...
+[108/166] HIP - Fetching: "hipLaunchKernelGGL" size:17000..17999
+[109/166] HIP - Fetching: "hipLaunchKernelGGL" size:18000..18999
+[110/166] HIP - Fetching: "hipLaunchKernelGGL" size:19000..19999
+[111/166] HIP - Fetching: "hipLaunchKernelGGL" size:20000..20999
+  -> Rate limit hit. Sleeping for 65 seconds...
+[112/166] HIP - Fetching: "hipLaunchKernelGGL" size:21000..21999
+[113/166] HIP - Fetching: "hipLaunchKernelGGL" size:22000..22999
+[114/166] HIP - Fetching: "hipLaunchKernelGGL" size:23000..23999
+[115/166] HIP - Fetching: "hipLaunchKernelGGL" size:24000..24999
+[116/166] HIP - Fetching: "hipLaunchKernelGGL" size:25000..25999
+  -> Rate limit hit. Sleeping for 65 seconds...
+[117/166] HIP - Fetching: "hipLaunchKernelGGL" size:26000..26999
+[118/166] HIP - Fetching: "hipLaunchKernelGGL" size:27000..27999
+[119/166] HIP - Fetching: "hipLaunchKernelGGL" size:28000..28999
+[120/166] HIP - Fetching: "hipLaunchKernelGGL" size:29000..29999
+[121/166] HIP - Fetching: "hipLaunchKernelGGL" size:30000..30999
+[122/166] HIP - Fetching: "hipLaunchKernelGGL" size:31000..31999
+[123/166] HIP - Fetching: "hipLaunchKernelGGL" size:32000..32999
+[124/166] HIP - Fetching: "hipLaunchKernelGGL" size:33000..33999
+[125/166] HIP - Fetching: "hipLaunchKernelGGL" size:34000..34999
+  -> Rate limit hit. Sleeping for 65 seconds...
+[126/166] HIP - Fetching: "hipLaunchKernelGGL" size:35000..35999
+[127/166] HIP - Fetching: "hipLaunchKernelGGL" size:36000..36999
+[128/166] HIP - Fetching: "hipLaunchKernelGGL" size:37000..37999
+[129/166] HIP - Fetching: "hipLaunchKernelGGL" size:38000..38999
+[130/166] HIP - Fetching: "hipLaunchKernelGGL" size:39000..39999
+[131/166] HIP - Fetching: "hipLaunchKernelGGL" size:40000..40999
+[132/166] HIP - Fetching: "hipLaunchKernelGGL" size:41000..41999
+[133/166] HIP - Fetching: "hipLaunchKernelGGL" size:42000..42999
+[134/166] HIP - Fetching: "hipLaunchKernelGGL" size:43000..43999
+  -> Rate limit hit. Sleeping for 65 seconds...
+[135/166] HIP - Fetching: "hipLaunchKernelGGL" size:44000..44999
+[136/166] HIP - Fetching: "hipLaunchKernelGGL" size:45000..45999
+[137/166] HIP - Fetching: "hipLaunchKernelGGL" size:46000..46999
+[138/166] HIP - Fetching: "hipLaunchKernelGGL" size:47000..47999
+[139/166] HIP - Fetching: "hipLaunchKernelGGL" size:48000..48999
+[140/166] HIP - Fetching: "hipLaunchKernelGGL" size:49000..49999
+  -> Rate limit hit. Sleeping for 65 seconds...
+[141/166] HIP - Fetching: "hipLaunchKernelGGL" size:50000..54999
+[142/166] HIP - Fetching: "hipLaunchKernelGGL" size:55000..59999
+[143/166] HIP - Fetching: "hipLaunchKernelGGL" size:60000..64999
+[144/166] HIP - Fetching: "hipLaunchKernelGGL" size:65000..69999
+[145/166] HIP - Fetching: "hipLaunchKernelGGL" size:70000..74999
+[146/166] HIP - Fetching: "hipLaunchKernelGGL" size:75000..79999
+[147/166] HIP - Fetching: "hipLaunchKernelGGL" size:80000..84999
+  -> Rate limit hit. Sleeping for 65 seconds...
+[148/166] HIP - Fetching: "hipLaunchKernelGGL" size:85000..89999
+[149/166] HIP - Fetching: "hipLaunchKernelGGL" size:90000..94999
+[150/166] HIP - Fetching: "hipLaunchKernelGGL" size:95000..99999
+[151/166] HIP - Fetching: "hipLaunchKernelGGL" size:100000..119999
+[152/166] HIP - Fetching: "hipLaunchKernelGGL" size:120000..139999
+[153/166] HIP - Fetching: "hipLaunchKernelGGL" size:140000..159999
+[154/166] HIP - Fetching: "hipLaunchKernelGGL" size:160000..179999
+[155/166] HIP - Fetching: "hipLaunchKernelGGL" size:180000..199999
+[156/166] HIP - Fetching: "hipLaunchKernelGGL" size:200000..219999
+  -> Rate limit hit. Sleeping for 65 seconds...
+[157/166] HIP - Fetching: "hipLaunchKernelGGL" size:220000..239999
+[158/166] HIP - Fetching: "hipLaunchKernelGGL" size:240000..259999
+[159/166] HIP - Fetching: "hipLaunchKernelGGL" size:260000..279999
+[160/166] HIP - Fetching: "hipLaunchKernelGGL" size:280000..299999
+[161/166] HIP - Fetching: "hipLaunchKernelGGL" size:300000..319999
+[162/166] HIP - Fetching: "hipLaunchKernelGGL" size:320000..339999
+[163/166] HIP - Fetching: "hipLaunchKernelGGL" size:340000..359999
+[164/166] HIP - Fetching: "hipLaunchKernelGGL" size:360000..379999
+[165/166] HIP - Fetching: "hipLaunchKernelGGL" size:380000..399999
+  -> Rate limit hit. Sleeping for 65 seconds...
+[166/166] HIP - Fetching: "hipLaunchKernelGGL" size:>384000
+
+--- Scraping SYCL Repositories ---
+[1/166] SYCL - Fetching: "sycl::queue" size:0..99
+[2/166] SYCL - Fetching: "sycl::queue" size:100..199
+[3/166] SYCL - Fetching: "sycl::queue" size:200..299
+[4/166] SYCL - Fetching: "sycl::queue" size:300..399
+[5/166] SYCL - Fetching: "sycl::queue" size:400..499
+[6/166] SYCL - Fetching: "sycl::queue" size:500..599
+  -> Rate limit hit. Sleeping for 65 seconds...
+[7/166] SYCL - Fetching: "sycl::queue" size:600..699
+[8/166] SYCL - Fetching: "sycl::queue" size:700..799
+[9/166] SYCL - Fetching: "sycl::queue" size:800..899
+  -> Rate limit hit. Sleeping for 65 seconds...
+[10/166] SYCL - Fetching: "sycl::queue" size:900..999
+[11/166] SYCL - Fetching: "sycl::queue" size:1000..1099
+[12/166] SYCL - Fetching: "sycl::queue" size:1100..1199
+  -> Rate limit hit. Sleeping for 65 seconds...
+[13/166] SYCL - Fetching: "sycl::queue" size:1200..1299
+[14/166] SYCL - Fetching: "sycl::queue" size:1300..1399
+[15/166] SYCL - Fetching: "sycl::queue" size:1400..1499
+  -> Rate limit hit. Sleeping for 65 seconds...
+[16/166] SYCL - Fetching: "sycl::queue" size:1500..1599
+[17/166] SYCL - Fetching: "sycl::queue" size:1600..1699
+[18/166] SYCL - Fetching: "sycl::queue" size:1700..1799
+  -> Rate limit hit. Sleeping for 65 seconds...
+[19/166] SYCL - Fetching: "sycl::queue" size:1800..1899
+[20/166] SYCL - Fetching: "sycl::queue" size:1900..1999
+[21/166] SYCL - Fetching: "sycl::queue" size:2000..2099
+  -> Rate limit hit. Sleeping for 65 seconds...
+[22/166] SYCL - Fetching: "sycl::queue" size:2100..2199
+[23/166] SYCL - Fetching: "sycl::queue" size:2200..2299
+[24/166] SYCL - Fetching: "sycl::queue" size:2300..2399
+  -> Rate limit hit. Sleeping for 65 seconds...
+[25/166] SYCL - Fetching: "sycl::queue" size:2400..2499
+[26/166] SYCL - Fetching: "sycl::queue" size:2500..2599
+[27/166] SYCL - Fetching: "sycl::queue" size:2600..2699
+  -> Rate limit hit. Sleeping for 65 seconds...
+[28/166] SYCL - Fetching: "sycl::queue" size:2700..2799
+[29/166] SYCL - Fetching: "sycl::queue" size:2800..2899
+[30/166] SYCL - Fetching: "sycl::queue" size:2900..2999
+  -> Rate limit hit. Sleeping for 65 seconds...
+[31/166] SYCL - Fetching: "sycl::queue" size:3000..3099
+[32/166] SYCL - Fetching: "sycl::queue" size:3100..3199
+[33/166] SYCL - Fetching: "sycl::queue" size:3200..3299
+  -> Rate limit hit. Sleeping for 65 seconds...
+[34/166] SYCL - Fetching: "sycl::queue" size:3300..3399
+[35/166] SYCL - Fetching: "sycl::queue" size:3400..3499
+[36/166] SYCL - Fetching: "sycl::queue" size:3500..3599
+[37/166] SYCL - Fetching: "sycl::queue" size:3600..3699
+  -> Rate limit hit. Sleeping for 65 seconds...
+[38/166] SYCL - Fetching: "sycl::queue" size:3700..3799
+[39/166] SYCL - Fetching: "sycl::queue" size:3800..3899
+[40/166] SYCL - Fetching: "sycl::queue" size:3900..3999
+  -> Rate limit hit. Sleeping for 65 seconds...
+[41/166] SYCL - Fetching: "sycl::queue" size:4000..4099
+[42/166] SYCL - Fetching: "sycl::queue" size:4100..4199
+[43/166] SYCL - Fetching: "sycl::queue" size:4200..4299
+[44/166] SYCL - Fetching: "sycl::queue" size:4300..4399
+  -> Rate limit hit. Sleeping for 65 seconds...
+[45/166] SYCL - Fetching: "sycl::queue" size:4400..4499
+[46/166] SYCL - Fetching: "sycl::queue" size:4500..4599
+[47/166] SYCL - Fetching: "sycl::queue" size:4600..4699
+[48/166] SYCL - Fetching: "sycl::queue" size:4700..4799
+  -> Rate limit hit. Sleeping for 65 seconds...
+[49/166] SYCL - Fetching: "sycl::queue" size:4800..4899
+[50/166] SYCL - Fetching: "sycl::queue" size:4900..4999
+[51/166] SYCL - Fetching: "sycl::queue" size:5000..5099
+[52/166] SYCL - Fetching: "sycl::queue" size:5100..5199
+  -> Rate limit hit. Sleeping for 65 seconds...
+[53/166] SYCL - Fetching: "sycl::queue" size:5200..5299
+[54/166] SYCL - Fetching: "sycl::queue" size:5300..5399
+[55/166] SYCL - Fetching: "sycl::queue" size:5400..5499
+[56/166] SYCL - Fetching: "sycl::queue" size:5500..5599
+[57/166] SYCL - Fetching: "sycl::queue" size:5600..5699
+  -> Rate limit hit. Sleeping for 65 seconds...
+[58/166] SYCL - Fetching: "sycl::queue" size:5700..5799
+[59/166] SYCL - Fetching: "sycl::queue" size:5800..5899
+[60/166] SYCL - Fetching: "sycl::queue" size:5900..5999
+[61/166] SYCL - Fetching: "sycl::queue" size:6000..6099
+  -> Rate limit hit. Sleeping for 65 seconds...
+[62/166] SYCL - Fetching: "sycl::queue" size:6100..6199
+[63/166] SYCL - Fetching: "sycl::queue" size:6200..6299
+[64/166] SYCL - Fetching: "sycl::queue" size:6300..6399
+[65/166] SYCL - Fetching: "sycl::queue" size:6400..6499
+  -> Rate limit hit. Sleeping for 65 seconds...
+[66/166] SYCL - Fetching: "sycl::queue" size:6500..6599
+[67/166] SYCL - Fetching: "sycl::queue" size:6600..6699
+[68/166] SYCL - Fetching: "sycl::queue" size:6700..6799
+[69/166] SYCL - Fetching: "sycl::queue" size:6800..6899
+[70/166] SYCL - Fetching: "sycl::queue" size:6900..6999
+  -> Rate limit hit. Sleeping for 65 seconds...
+[71/166] SYCL - Fetching: "sycl::queue" size:7000..7099
+[72/166] SYCL - Fetching: "sycl::queue" size:7100..7199
+[73/166] SYCL - Fetching: "sycl::queue" size:7200..7299
+[74/166] SYCL - Fetching: "sycl::queue" size:7300..7399
+  -> Rate limit hit. Sleeping for 65 seconds...
+[75/166] SYCL - Fetching: "sycl::queue" size:7400..7499
+[76/166] SYCL - Fetching: "sycl::queue" size:7500..7599
+[77/166] SYCL - Fetching: "sycl::queue" size:7600..7699
+[78/166] SYCL - Fetching: "sycl::queue" size:7700..7799
+[79/166] SYCL - Fetching: "sycl::queue" size:7800..7899
+[80/166] SYCL - Fetching: "sycl::queue" size:7900..7999
+[81/166] SYCL - Fetching: "sycl::queue" size:8000..8099
+[82/166] SYCL - Fetching: "sycl::queue" size:8100..8199
+  -> Rate limit hit. Sleeping for 65 seconds...
+[83/166] SYCL - Fetching: "sycl::queue" size:8200..8299
+[84/166] SYCL - Fetching: "sycl::queue" size:8300..8399
+[85/166] SYCL - Fetching: "sycl::queue" size:8400..8499
+[86/166] SYCL - Fetching: "sycl::queue" size:8500..8599
+[87/166] SYCL - Fetching: "sycl::queue" size:8600..8699
+[88/166] SYCL - Fetching: "sycl::queue" size:8700..8799
+[89/166] SYCL - Fetching: "sycl::queue" size:8800..8899
+[90/166] SYCL - Fetching: "sycl::queue" size:8900..8999
+  -> Rate limit hit. Sleeping for 65 seconds...
+[91/166] SYCL - Fetching: "sycl::queue" size:9000..9099
+[92/166] SYCL - Fetching: "sycl::queue" size:9100..9199
+[93/166] SYCL - Fetching: "sycl::queue" size:9200..9299
+[94/166] SYCL - Fetching: "sycl::queue" size:9300..9399
+[95/166] SYCL - Fetching: "sycl::queue" size:9400..9499
+[96/166] SYCL - Fetching: "sycl::queue" size:9500..9599
+[97/166] SYCL - Fetching: "sycl::queue" size:9600..9699
+[98/166] SYCL - Fetching: "sycl::queue" size:9700..9799
+  -> Rate limit hit. Sleeping for 65 seconds...
+  -> Error 500: {"message":"internal server error","documentation_url":"https://docs.github.com/rest/search/search#search-code","status":"500"}
+[99/166] SYCL - Fetching: "sycl::queue" size:9800..9899
+[100/166] SYCL - Fetching: "sycl::queue" size:9900..9999
+[101/166] SYCL - Fetching: "sycl::queue" size:10000..10999
+  -> Rate limit hit. Sleeping for 65 seconds...
+[102/166] SYCL - Fetching: "sycl::queue" size:11000..11999
+[103/166] SYCL - Fetching: "sycl::queue" size:12000..12999
+  -> Rate limit hit. Sleeping for 65 seconds...
+[104/166] SYCL - Fetching: "sycl::queue" size:13000..13999
+[105/166] SYCL - Fetching: "sycl::queue" size:14000..14999
+  -> Rate limit hit. Sleeping for 65 seconds...
+[106/166] SYCL - Fetching: "sycl::queue" size:15000..15999
+[107/166] SYCL - Fetching: "sycl::queue" size:16000..16999
+  -> Rate limit hit. Sleeping for 65 seconds...
+[108/166] SYCL - Fetching: "sycl::queue" size:17000..17999
+[109/166] SYCL - Fetching: "sycl::queue" size:18000..18999
+[110/166] SYCL - Fetching: "sycl::queue" size:19000..19999
+  -> Rate limit hit. Sleeping for 65 seconds...
+[111/166] SYCL - Fetching: "sycl::queue" size:20000..20999
+[112/166] SYCL - Fetching: "sycl::queue" size:21000..21999
+[113/166] SYCL - Fetching: "sycl::queue" size:22000..22999
+[114/166] SYCL - Fetching: "sycl::queue" size:23000..23999
+  -> Rate limit hit. Sleeping for 65 seconds...
+[115/166] SYCL - Fetching: "sycl::queue" size:24000..24999
+[116/166] SYCL - Fetching: "sycl::queue" size:25000..25999
+[117/166] SYCL - Fetching: "sycl::queue" size:26000..26999
+  -> Rate limit hit. Sleeping for 65 seconds...
+[118/166] SYCL - Fetching: "sycl::queue" size:27000..27999
+[119/166] SYCL - Fetching: "sycl::queue" size:28000..28999
+[120/166] SYCL - Fetching: "sycl::queue" size:29000..29999
+[121/166] SYCL - Fetching: "sycl::queue" size:30000..30999
+  -> Rate limit hit. Sleeping for 65 seconds...
+[122/166] SYCL - Fetching: "sycl::queue" size:31000..31999
+[123/166] SYCL - Fetching: "sycl::queue" size:32000..32999
+[124/166] SYCL - Fetching: "sycl::queue" size:33000..33999
+[125/166] SYCL - Fetching: "sycl::queue" size:34000..34999
+[126/166] SYCL - Fetching: "sycl::queue" size:35000..35999
+  -> Error 408: {"message":"This query timed out. Try a simpler query, or try again later","documentation_url":"https://docs.github.com/rest/search/search#search-code","status":"408"}
+[127/166] SYCL - Fetching: "sycl::queue" size:36000..36999
+  -> Rate limit hit. Sleeping for 65 seconds...
+[128/166] SYCL - Fetching: "sycl::queue" size:37000..37999
+[129/166] SYCL - Fetching: "sycl::queue" size:38000..38999
+[130/166] SYCL - Fetching: "sycl::queue" size:39000..39999
+[131/166] SYCL - Fetching: "sycl::queue" size:40000..40999
+[132/166] SYCL - Fetching: "sycl::queue" size:41000..41999
+[133/166] SYCL - Fetching: "sycl::queue" size:42000..42999
+[134/166] SYCL - Fetching: "sycl::queue" size:43000..43999
+  -> Rate limit hit. Sleeping for 65 seconds...
+[135/166] SYCL - Fetching: "sycl::queue" size:44000..44999
+[136/166] SYCL - Fetching: "sycl::queue" size:45000..45999
+[137/166] SYCL - Fetching: "sycl::queue" size:46000..46999
+[138/166] SYCL - Fetching: "sycl::queue" size:47000..47999
+[139/166] SYCL - Fetching: "sycl::queue" size:48000..48999
+[140/166] SYCL - Fetching: "sycl::queue" size:49000..49999
+  -> Rate limit hit. Sleeping for 65 seconds...
+[141/166] SYCL - Fetching: "sycl::queue" size:50000..54999
+[142/166] SYCL - Fetching: "sycl::queue" size:55000..59999
+[143/166] SYCL - Fetching: "sycl::queue" size:60000..64999
+[144/166] SYCL - Fetching: "sycl::queue" size:65000..69999
+[145/166] SYCL - Fetching: "sycl::queue" size:70000..74999
+  -> Rate limit hit. Sleeping for 65 seconds...
+[146/166] SYCL - Fetching: "sycl::queue" size:75000..79999
+[147/166] SYCL - Fetching: "sycl::queue" size:80000..84999
+[148/166] SYCL - Fetching: "sycl::queue" size:85000..89999
+[149/166] SYCL - Fetching: "sycl::queue" size:90000..94999
+[150/166] SYCL - Fetching: "sycl::queue" size:95000..99999
+  -> Rate limit hit. Sleeping for 65 seconds...
+[151/166] SYCL - Fetching: "sycl::queue" size:100000..119999
+[152/166] SYCL - Fetching: "sycl::queue" size:120000..139999
+[153/166] SYCL - Fetching: "sycl::queue" size:140000..159999
+  -> Rate limit hit. Sleeping for 65 seconds...
+[154/166] SYCL - Fetching: "sycl::queue" size:160000..179999
+[155/166] SYCL - Fetching: "sycl::queue" size:180000..199999
+[156/166] SYCL - Fetching: "sycl::queue" size:200000..219999
+[157/166] SYCL - Fetching: "sycl::queue" size:220000..239999
+  -> Rate limit hit. Sleeping for 65 seconds...
+[158/166] SYCL - Fetching: "sycl::queue" size:240000..259999
+[159/166] SYCL - Fetching: "sycl::queue" size:260000..279999
+[160/166] SYCL - Fetching: "sycl::queue" size:280000..299999
+[161/166] SYCL - Fetching: "sycl::queue" size:300000..319999
+[162/166] SYCL - Fetching: "sycl::queue" size:320000..339999
+[163/166] SYCL - Fetching: "sycl::queue" size:340000..359999
+[164/166] SYCL - Fetching: "sycl::queue" size:360000..379999
+[165/166] SYCL - Fetching: "sycl::queue" size:380000..399999
+  -> Rate limit hit. Sleeping for 65 seconds...
+[166/166] SYCL - Fetching: "sycl::queue" size:>384000
+
+==================================================
+FINAL EXHAUSTIVE REPOSITORY COUNTS
+==================================================
+OpenCL    : 11,887 unique repositories
+HIP       : 2,599 unique repositories
+SYCL      : 3,355 unique repositories
